@@ -5,3 +5,5 @@ joblib
 scikit-learn
 matplotlib
 seaborn
+ploty
+
